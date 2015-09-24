@@ -1,0 +1,19 @@
+{
+  "name": "robins-npm-module",
+  "version": "1.0.0",
+  "description": "Robin's first npm module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinrob/robins-npm-module.git"
+  },
+  "author": "Robin Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinrob/robins-npm-module/issues"
+  },
+  "homepage": "https://github.com/robinrob/robins-npm-module#readme"
+}
